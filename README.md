@@ -64,7 +64,11 @@ Follow the on-screen dialogue boxes for installation.
  - Bilal Wajid
  - Ali Zafar
  - Sharoze Meraj
+ - Faria Anwar
+ - Mustafa Kamal AlShawaqfeh
  - Hasan Iqbal
+ - Safee Ullah Chaudhry
+ - Imran Wajid
 
 ## 🔑 License
 This project complies against license [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0).
